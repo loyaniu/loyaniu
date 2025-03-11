@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhonglin-Niu&show_icons=true&theme=tokyonight" alt="Github Stats" width="80%">
+  <img src="https://github-readme-stats.vercel.app/api?username=loyaniu&show_icons=true&theme=tokyonight" alt="Github Stats" width="80%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhonglin-Niu&theme=tokyonight" alt="Top Langs" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyaniu&theme=tokyonight" alt="Top Langs" width="50%">
 </p>
