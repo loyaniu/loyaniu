@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="144" viewBox="0 0 340 144" role="img" aria-label="Most used languages">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Ubuntu, "Helvetica Neue", sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #70a5fd; }
+    .label { font-size: 14px; fill: #38bdae; }
+    .label { font-size: 12px; }
+  </style>
+  <rect x="0.5" y="0.5" width="339" height="143" rx="6" fill="#1a1b27" stroke="#2a2b3d"/>
+  <text class="title" x="25" y="34">Most Used Languages</text>
+  <mask id="bar"><rect x="25" y="50" width="290" height="8" rx="4" fill="#fff"/></mask>
+  <g mask="url(#bar)">
+    <rect x="25.00" y="50" width="77.56" height="8" fill="#3572A5"/>
+    <rect x="102.56" y="50" width="63.03" height="8" fill="#3178c6"/>
+    <rect x="165.60" y="50" width="48.68" height="8" fill="#e34c26"/>
+    <rect x="214.28" y="50" width="34.17" height="8" fill="#f1e05a"/>
+    <rect x="248.45" y="50" width="21.45" height="8" fill="#00B4AB"/>
+    <rect x="269.90" y="50" width="18.42" height="8" fill="#c6538c"/>
+  </g>
+  <g transform="translate(25.00 78)">
+    <circle cx="5" cy="8" r="5" fill="#3572A5"/>
+    <text class="label" x="16" y="12">Python 26.75%</text>
+  </g>
+  <g transform="translate(170.00 78)">
+    <circle cx="5" cy="8" r="5" fill="#3178c6"/>
+    <text class="label" x="16" y="12">TypeScript 21.73%</text>
+  </g>
+  <g transform="translate(25.00 100)">
+    <circle cx="5" cy="8" r="5" fill="#e34c26"/>
+    <text class="label" x="16" y="12">HTML 16.79%</text>
+  </g>
+  <g transform="translate(170.00 100)">
+    <circle cx="5" cy="8" r="5" fill="#f1e05a"/>
+    <text class="label" x="16" y="12">JavaScript 11.78%</text>
+  </g>
+  <g transform="translate(25.00 122)">
+    <circle cx="5" cy="8" r="5" fill="#00B4AB"/>
+    <text class="label" x="16" y="12">Dart 7.40%</text>
+  </g>
+  <g transform="translate(170.00 122)">
+    <circle cx="5" cy="8" r="5" fill="#c6538c"/>
+    <text class="label" x="16" y="12">SCSS 6.35%</text>
+  </g>
+</svg>
